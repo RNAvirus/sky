@@ -998,3 +998,5 @@
  1001  history |cut -c 8-|sort|uniq -dc|sort -rn -k1 |head -3 > /home/chy/Desktop/data
  1002  ls
  1003  history  > /home/chy/Desktop/data
+
+测试
